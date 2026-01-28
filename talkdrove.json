@@ -5,18 +5,18 @@
   "logo": "https://files.catbox.moe/ygfz2e.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://suho-pair3.onrender.com/",
-    "owner-verification":"sungdev00@gmail.com",
+    "owner-verification":"godswayfosu158@gmail.com",
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. It starts with drakonis~",
+        "description":"CYsUiC7S#FkNL_IMjFqY8N4-xPaWxdRXOrTo43fwTNmFhLSc_y-Q",
         "value":"",
         "required": true
         
       },
       
     "OWNER_NUMBER": {
-      "description": "Enter owner number",
+      "description": "233534263548",
       "required": false,
       "value": "12363621958"
 
